@@ -8,7 +8,7 @@ Audio visualizer for pulseaudio using the SDL2 library.
 ### vectorscope
 ![2d](https://raw.githubusercontent.com/amendip/ceq/main/scrots/2d.png)
 ## Compiling
-Install SDL2 and pulseaudio if you haven't already.
+There are precompiled binaries included but if you'd like you can compile from the source. Install SDL2 and pulseaudio if you haven't already.
 
 Compile with:
 ```
