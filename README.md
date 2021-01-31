@@ -1,5 +1,5 @@
 # ceq
-Audio visualizer for pulseaudio using the SDL2 library.
+Audio visualizer for pulseaudio using the SDL2 library. Works in a single thread and is a bit stupid but I'm more likely to rewrite it using other libraries than I am to fix it.
 ## Flavours
 ### circular
 ![circ](https://raw.githubusercontent.com/amendip/ceq/main/scrots/circ.png)
